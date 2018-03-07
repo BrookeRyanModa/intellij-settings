@@ -41,6 +41,9 @@
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
   </TypeScriptCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_QUOTE_STYLE" value="Single" />
+  </HTMLCodeStyleSettings>  
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
